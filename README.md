@@ -1,5 +1,5 @@
 # aplikasi-perpustakaan-xi-pplg-
 Praktik kolaborasi Git dan GitHub kelas XI PPLG
-## fitur login 
-## fitur Dashboard 
-menambahkan fitur dashboard 
+
+## Fitur Login 
+fitur login digunakan untuk masuk ke dalam aplikasi. 
